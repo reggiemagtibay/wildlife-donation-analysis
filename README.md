@@ -89,7 +89,7 @@ This project uses publicly available data from Kaggle for analytical purposes.
 ---
 
 ## 💡 Key Takeaway
-Fundraising performance is driven by a combination of donor segmentation, channel effectiveness, and engagement strategy — with significant opportunities to improve stability through recurring donation models.
+Fundraising performance is driven by a combination of donor segmentation, channel effectiveness, and engagement strategy with significant opportunities to improve stability through recurring donation models.
 
 ---
 
